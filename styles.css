@@ -1,0 +1,41 @@
+*{box-sizing: border-box;}
+html{
+	height: 100%;
+}
+body{
+    font-family: 'Special Elite', cursive;
+	height: 100%;
+	margin: 0px;
+	text-align: center;
+}
+#leftside{
+	width: 50%;
+	float: left;
+	height: 100%;
+	background-color: gold;
+}
+#rightside{
+	width: 50%;
+	float: right;
+	height: 100%;
+	background-color: teal;
+}
+.lefttxt{
+	border: 3px solid darkslategray;
+	display: inline-block;
+	padding: 1em;
+	margin: 7em auto;
+	color: darkslategray;
+	padding: 1em;
+}
+.righttxt{
+	border: 3px solid white;
+	display: inline-block;
+	padding: 1em;
+	margin: 7em auto;
+	color: white;
+	padding: 1em;
+}
+a{
+	text-decoration: none;
+}
