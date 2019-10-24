@@ -29,13 +29,19 @@ body{
 	padding: 1em;
 }
 .righttxt{
-	border: 3px solid white;
+	border: 3px solid ivory;
 	display: inline-block;
 	padding: 1em;
 	margin: 14em auto;
-	color: white;
+	color: ivory;
 	padding: 1em;
 }
 a{
 	text-decoration: none;
+}
+a.avm:visited{
+	color: darkslategray;
+}
+a.ahm:visited{
+	color: ivory;
 }
