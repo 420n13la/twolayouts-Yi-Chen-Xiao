@@ -12,36 +12,30 @@ body{
 	width: 50%;
 	float: left;
 	height: 100%;
-	background-color: gold;
+	background-color: #383276;
 }
 #rightside{
 	width: 50%;
 	float: right;
 	height: 100%;
-	background-color: teal;
+	background-color: #AA9139;
 }
 .lefttxt{
-	border: 3px solid darkslategray;
+	border: 3px solid #5A5494;
 	display: inline-block;
 	padding: 1em;
 	margin: 14em auto;
-	color: darkslategray;
+	color: #5A5494;
 	padding: 1em;
 }
 .righttxt{
-	border: 3px solid ivory;
+	border: 3px solid #D4BD6A;
 	display: inline-block;
 	padding: 1em;
 	margin: 14em auto;
-	color: ivory;
+	color: #D4BD6A;
 	padding: 1em;
 }
 a{
 	text-decoration: none;
-}
-a.avm:visited{
-	color: darkslategray;
-}
-a.ahm:visited{
-	color: ivory;
 }
