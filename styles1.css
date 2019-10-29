@@ -2,9 +2,10 @@
 	position: fixed;
 	float: left;
 	width: 250px;
+	height: auto;
 	background-color: #313F49;
 }
 .logo{
-	height: 50%;
-	width: 50%;
+	height: 250px;
+	width: 250px;
 }
