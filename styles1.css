@@ -1,14 +1,16 @@
+body{
+	height: 100%;
+	background-color: #303C74;
+}
+
 .vertical-menu{
 	position: fixed;
 	float: left;
 	width: 250px;
-	height: 1000px;
-	background-color: #313F49;
+	height: 100%;
+	background-color: #172357;
 }
 .links a:hover{
-	color: blue;
+	color: #07103A;
 }
-.logo{
-	height: 250px;
-	width: 250px;
-}
+
