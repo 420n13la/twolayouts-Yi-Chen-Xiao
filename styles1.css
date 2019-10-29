@@ -1,6 +1,8 @@
 .vertical-menu{
 	position: fixed;
 	float: left;
+	width: 250px;
+	background-color: #313F49;
 }
 .logo{
 	height: 50%;
