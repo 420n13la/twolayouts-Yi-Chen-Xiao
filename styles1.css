@@ -5,6 +5,9 @@
 	height: auto;
 	background-color: #313F49;
 }
+.links a:hover{
+	color: blue;
+}
 .logo{
 	height: 250px;
 	width: 250px;
