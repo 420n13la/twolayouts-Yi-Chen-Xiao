@@ -13,4 +13,7 @@ body{
 .links a:hover{
 	color: #07103A;
 }
-
+.menu{
+	text-align: center;
+	padding: 2%;
+}
