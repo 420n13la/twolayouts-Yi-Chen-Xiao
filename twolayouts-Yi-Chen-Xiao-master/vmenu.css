@@ -1,0 +1,42 @@
+body{
+	height: 100%;
+	background-color: #303C74;
+}
+
+nav{
+	position: fixed;
+	float: left;
+	padding: 2%;
+	width: 18%;
+	height: 100%;
+	background-color: #172357;
+}
+main{
+	float: right;
+	width: 75%;
+}
+.logo{
+	text-align: center;
+}
+.menu{
+	text-align: center;
+	padding: 0%, 100%;
+	font-family: Arial, sans-serif;
+}
+.active{
+	text-decoration: none;
+	font-size: 24px;
+}
+.hover:hover{
+	background-color: #07103A;
+	color: #ffffff;
+	text-decoration: none;
+	padding: 2%, 100%, 2%, 100%;
+}
+p{
+	font-family: arial, sans-serif;
+	color: #7A84AE;
+}
+h1{
+	color: #7A84AE;
+}
